@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fcc641a6b0b3814aa25cca81644adca, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  name: ShotGun
+  damage: 50
+  firerate: 1
+  bloom: 50
+  recoil: 20
+  kickback: 0.4
+  aimSpeed: 15
+  prefab: {fileID: 4134064948509612997, guid: e42dba0e49ae65d4abb7b196b78756e4, type: 3}
