@@ -1,2 +1,2 @@
 # FPSMultiplayer
-Unity game made in fall 2019. It is a first person shooter that has online connectivity thanks to Photon Engine.
+Crafted in fall 2019, this Unity FPS leverages Photon Engine for seamless online connectivity.
